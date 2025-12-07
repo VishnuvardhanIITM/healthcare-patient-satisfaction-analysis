@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 quarters = ['Q1', 'Q2', 'Q3', 'Q4']
 scores = [2.65, 0.24, 8.27, 7.15]
 industry_target = 4.5
+a=1
 
 # Calculate average
 average = sum(scores) / len(scores)
